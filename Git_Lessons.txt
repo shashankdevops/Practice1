@@ -1,0 +1,4 @@
+GIT lessons learnt:
+
+* SSL Ceriticate Errors came when Pull was requested, it was overcome by using the below workaround git command:
+git config --global http.sslVerify false
